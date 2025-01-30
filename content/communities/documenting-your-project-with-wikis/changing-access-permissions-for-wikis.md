@@ -21,3 +21,4 @@ shortTitle: Change access permissions
 ## Further reading
 
 * [AUTOTITLE](/communities/documenting-your-project-with-wikis/disabling-wikis)
+* [chrisquionez354@gmail.com](https://github-wiki-see.page/m/xyu/heroku-wp/wiki_index)
